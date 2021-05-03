@@ -1,4 +1,4 @@
-# Slim Framework 3 Skeleton Application
+# Flask Framework Skeleton Application
 
 Use this skeleton application to quickly setup and start working on a new Flask application.
 
